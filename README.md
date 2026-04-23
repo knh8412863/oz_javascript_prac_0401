@@ -21,7 +21,9 @@
 
 ## 🚀 실행 방법
 `node` 명령어를 통해 터미널에서 결과를 확인 가능
-
+```bash
 node prac1.js
-
+```
+```bash
 node prac2.js
+```
